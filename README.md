@@ -1,8 +1,3 @@
-🏋️‍♂️ SPORT PLUS — Boutique e-commerce Sportwear PHP / MySQL
-
-🚀 SPORT PLUS est une boutique e-commerce développée en PHP natif + MySQL, spécialisée dans la vente de vêtements, chaussures et accessoires de sport.
-Le projet a été conçu pour être moderne, léger, facile à maintenir et compatible avec un hébergement mutualisé comme Hostinger.
-
 📌 Sommaire
 📖 Présentation du projet
 🎯 Objectifs du projet
@@ -34,6 +29,7 @@ un portfolio
 une présentation de projet
 un projet scolaire
 une mise en ligne réelle
+
 🎯 Objectifs du projet
 
 Le projet SPORT PLUS a été pensé pour répondre à plusieurs objectifs :
@@ -103,53 +99,3 @@ adapté mobile / desktop
 👕 Gestion des produits (CRUD)
 👥 Consultation des clients / commandes
 🖼️ Gestion des images produits (selon version)
-🛠️ Stack technique
-
-Le projet repose sur une stack volontairement simple, claire et efficace :
-
-🐘 PHP 8+
-🗄️ MySQL / MariaDB
-🔐 PDO (requêtes préparées)
-🎨 HTML5 / CSS3
-⚡ JavaScript
-🧠 Sessions PHP
-🛡️ Protection CSRF
-🌐 Apache / .htaccess
-📂 Structure du projet
-SPORT-PLUS/
-│
-├── actions/                # Traitements POST (login, register, panier, commande...)
-├── admin/                  # Espace administrateur
-├── config/                 # Configuration base de données
-├── data/                   # Données internes / fichiers temporaires
-├── docs/                   # Documentation du projet
-├── includes/               # Helpers, auth, session, csrf, bootstrap boutique
-├── sql/                    # Scripts SQL d'installation / migration
-│
-├── index.php               # Page d'accueil
-├── shop.php                # Boutique / vitrine
-├── catalogue.php           # Catalogue produits
-├── product.php             # Fiche produit
-├── cart.php                # Panier
-├── favorites.php           # Favoris
-├── checkout.php            # Validation commande
-├── order-success.php       # Confirmation commande
-├── account.php             # Espace client
-├── login.php               # Connexion client
-├── register.php            # Inscription client
-├── logout.php              # Déconnexion
-│
-└── .htaccess               # Configuration Apache / Hostinger
-🧾 Types de produits prévus
-
-SPORT PLUS peut inclure plusieurs catégories de produits :
-
-👕 T-shirts techniques
-🩳 Shorts / joggings
-🧘 Leggings
-🧥 Sweats / vestes
-👟 Sneakers / chaussures de sport
-🎒 Sacs de sport
-🧢 Casquettes / accessoires
-🏋️ Accessoires fitness
-💧 Gourdes / équipements légers
