@@ -1,53 +1,32 @@
-📌 Sommaire
-📖 Présentation du projet
-🎯 Objectifs du projet
-📝 Cahier des charges
+🏋️ SPORT PLUS — Boutique e-commerce sportwear PHP / MySQL
+
+SPORT PLUS est une boutique e-commerce développée en PHP natif + MySQL, dédiée à la vente de vêtements, chaussures et accessoires de sport.
+Le projet a été conçu pour être moderne, léger, responsive et facile à déployer sur un hébergement mutualisé comme Hostinger.
+
+
+📍 Contexte
+Le projet consiste à développer une boutique e-commerce sportwear permettant la vente en ligne de produits liés au sport et au fitness.
+
+
 ✨ Fonctionnalités principales
-🛠️ Stack technique
-📂 Structure du projet
-⚙️ Installation locale
-🌍 Déploiement sur Hostinger
-🔐 Sécurité minimale intégrée
-📈 Évolutions possibles
-👨‍💻 Auteur / Utilisation
-📖 Présentation du projet
-
-SPORT PLUS est un site e-commerce complet permettant de :
-
-présenter une boutique sportwear moderne
-afficher un catalogue produits
-gérer un panier
-gérer des favoris
-permettre la connexion / inscription
-enregistrer des commandes
-offrir un suivi client
-proposer un espace administrateur
-
-🎯 L’objectif est de fournir une base stable, professionnelle et facilement déployable pour :
-
-un portfolio
-une présentation de projet
-un projet scolaire
-une mise en ligne réelle
-
-🎯 Objectifs du projet
-
-Le projet SPORT PLUS a été pensé pour répondre à plusieurs objectifs :
 
 Côté utilisateur 👤
 Offrir une expérience d’achat simple et fluide
 Permettre de consulter les produits facilement
 Commander rapidement depuis mobile ou PC
 Avoir un site moderne et responsive
+
+
 Côté administrateur 🛠️
 Gérer les produits
 Gérer les commandes
 Mettre à jour les statuts
 Suivre l’activité de la boutique
 Disposer d’une base claire et facile à maintenir
-📝 Cahier des charges
-📍 Contexte
 
+
+
+📍 Contexte
 Le projet consiste à développer une boutique e-commerce sportwear permettant la vente en ligne de produits liés au sport et au fitness.
 
 🎯 Besoin principal
